@@ -1,6 +1,6 @@
 # Predicting a Song's Genre
 
-A class project (Winter 2019) to classify song lyriccs' genres. 
+A class project (Winter 2019) to classify song lyrics' genres. 
 
 - **predict_songs_genre.py**: cleans the lyrics dataset, trains Naive Bayes Classifier models (Multinomial, Gaussian, Bernoulli), Logistic Regression, and Support Vector Machine models, and predicts the test set.
 - **wordcloud_dataviz.ipynb**: creates wordcloud from the cleaned lyrics dataset.
